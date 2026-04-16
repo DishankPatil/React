@@ -1,4 +1,3 @@
-
 function Card(username) {
     console.log(username);
   return (
