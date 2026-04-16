@@ -5,8 +5,7 @@ function App() {
     <>
     <h1>The React Project</h1>
   <New></New>
-  <p>The test Project For React Application. Redux and hooks
-  </p>
+  <p>The test Project For React Application. Redux and hooks</p>
   </>
   );
 }
